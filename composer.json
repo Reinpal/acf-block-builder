@@ -18,9 +18,9 @@
     ]
   },
   "require": {
-    "roots/acorn": "dev-main",
-    "roots/support": "^1.0",
-    "stoutlogic/acf-builder": "^1.8"
+    "stoutlogic/acf-builder": "^1.8",
+    "roots/support": "dev-master",
+    "roots/acorn": "^1.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0"

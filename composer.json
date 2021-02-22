@@ -18,8 +18,8 @@
     ]
   },
   "require": {
-    "roots/acorn": "dev-master",
-    "roots/support": "dev-master",
+    "roots/acorn": "dev-main",
+    "roots/support": "^1.0",
     "stoutlogic/acf-builder": "^1.8"
   },
   "require-dev": {
